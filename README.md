@@ -1,5 +1,5 @@
 # ProvaProgIV
-Prova de Programação IV - Sistema de Informações- UEMG Passos
+Prova de Programação IV - Sistemas de Informação - Universidade do Estado de Minas Gerais - Unidade Passos
 
 Aluno: André Augusto de Oliveira.
 
